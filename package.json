@@ -1,6 +1,6 @@
 {
   "name": "glob-patterns",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Common glob patterns",
   "main": "index.js",
   "scripts": {
