@@ -1,6 +1,6 @@
 {
   "name": "glob-patterns",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Common glob patterns",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "patterns",
     "html",
     "js",
-    "css"
+    "css",
+    "sugarss"
   ],
   "author": "Ole Ersoy",
   "license": "MIT",
