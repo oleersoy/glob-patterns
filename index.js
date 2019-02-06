@@ -4,5 +4,6 @@ module.exports = GLOB = {
   ALL_HTML: '**/*.html',
   ALL_SVG: '**/*.svg',
   ALL_JS: '**/*.js',
-  ALL_TS: '**/*.ts'
+  ALL_TS: '**/*.ts',
+  ALL_MD: '**/*.md'
 }
